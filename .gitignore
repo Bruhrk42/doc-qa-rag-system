@@ -3,5 +3,3 @@ __pycache__/
 *.pyc
 .env
 data/raw_pdfs/*.pdf
-data/*.faiss
-data/*.pkl
