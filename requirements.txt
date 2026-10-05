@@ -1,8 +1,8 @@
 pypdf
 langchain
 langchain-community
-sentence-transformers
+langchain-text-splitters
 faiss-cpu
 streamlit
-anthropic
+google-generativeai
 python-dotenv
